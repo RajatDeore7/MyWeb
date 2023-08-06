@@ -28,6 +28,17 @@ body{
     background-color: #3AB0FF;
 
 }
+
+div.top_progress_bar {
+  position: fixed;
+  top: 0%;
+  left: 0;
+  height: 0.5rem;
+  background: linear-gradient(to right, #000000, #52057b, #892cdc, #bc6ff1);
+  width: 0%;
+  z-index: 1;
+}
+
 .logo{
     font-size:22px;
     color: #f7f3f3;
