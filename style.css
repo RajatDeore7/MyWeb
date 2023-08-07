@@ -389,7 +389,6 @@ span{
     align-items: center;
     flex-direction: column;
     min-height: auto;
-    padding-bottom: 5rem;
 }
 .achievements .achievements-row{
     display: flex;
