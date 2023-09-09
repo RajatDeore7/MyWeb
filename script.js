@@ -1,5 +1,6 @@
 var type = new Typed(".multiple-text", {
   strings: [
+    "Freelancer",
     "Frontend Developer",
     "Backend Developer",
     "Fullstack Developer",
