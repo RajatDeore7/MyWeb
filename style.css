@@ -818,7 +818,7 @@ section h2 {
       width: 0;
     }
     100% {
-      width: 95%;
+      width: 100%;
     }
   }
 
@@ -827,7 +827,7 @@ section h2 {
       width: 0;
     }
     100% {
-      width: 95%;
+      width: 100%;
     }
   }
 
