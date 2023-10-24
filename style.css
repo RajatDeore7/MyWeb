@@ -328,10 +328,6 @@ span{
     animation: java 3s forwards;
   }
   
-  .skill-bar .bar .cpp {
-    animation: cpp 3s forwards;
-  }
-  
   .skill-bar .bar .python {
       animation: python 3s forwards;
   }
@@ -378,6 +374,10 @@ span{
   
   .skill-bar .bar .fire {
     animation: fire 3s forwards;
+  }
+
+  .skill-bar .bar .sql {
+    animation: sql 3s forwards;
   }
 
 
@@ -795,15 +795,6 @@ section h2 {
     }
   }
 
-  @keyframes SQL {
-    0% {
-      width: 0;
-    }
-    100% {
-      width: 70%;
-    }
-  }
-
   @keyframes python {
     0% {
       width: 0;
@@ -909,6 +900,15 @@ section h2 {
     }
     100% {
       width: 60%;
+    }
+  }
+
+  @keyframes sql {
+    0% {
+      width: 0;
+    }
+    100% {
+      width: 70%;
     }
   }
 
